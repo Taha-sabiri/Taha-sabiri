@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **taha.sabiri6702@gmial,com**
+- 📫 How to reach me **taha.sabiri6702@gmial.com**
 
 - 📄 Know about my experiences [https://github.com/Taha-sabiri/Taha-sabiri/blob/main/TahaSabiri-cv.pdf](https://github.com/Taha-sabiri/Taha-sabiri/blob/main/TahaSabiri-cv.pdf)
 
