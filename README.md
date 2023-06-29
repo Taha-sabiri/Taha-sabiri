@@ -1,9 +1,11 @@
+
+
 <h1 align="center">Hi 👋, I'm Taha Sabiri</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate frontend developer from Iran📱💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-sabiri&label=Profile%20views&color=0433ff&style=flat-square" alt="taha-sabiri" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter** 💙
 
 - 📫 How to reach me **taha.sabiri6702@gmial.com**
 
