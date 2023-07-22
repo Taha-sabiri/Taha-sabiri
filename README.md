@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Taha Sabiri</h1>
 <h3 align="center">A passionate frontend developer from Iran📱💻</h3>
+<h5 align="center">Programmer never die , they just go offline💀🙌</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taha-sabiri&label=Profile%20views&color=0433ff&style=flat-square" alt="taha-sabiri" /> </p>
 
